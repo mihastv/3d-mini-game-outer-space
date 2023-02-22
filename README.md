@@ -19,5 +19,5 @@
 		- The camera was used in the 1st level in a way that emulates cameras being "children" of the main character, with it following the ship around
 		- For the other levels, the camera doubles as the main character, with some features being disabled for veracity
 		
-	- THE GAME OBJECTS:
+	- THE GAME OBJECTS: 
 		- free 3D resources fashioned after a low-poly, Totally Accurate Battlegrounds like aesthetic.
